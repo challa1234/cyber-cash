@@ -25,7 +25,7 @@ function CryptoList() {
 
   return (
     <div>
-      <h1>Cryptocurrency Information</h1>
+      <h1>CYBER-CASH</h1>
       <ul>
         {cryptoData.map((crypto) => (
           <li key={crypto.id}>
